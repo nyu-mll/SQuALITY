@@ -22,4 +22,4 @@ Each row in the data file is a JSON dictionary with the following fields:
 
 # License
 
-The stories are distributed under the [Project Gutenberg license](https://www.gutenberg.org/policy/license.html) and the crowdsourced writing is distributed under an MIT license.
+The stories are distributed under the [Project Gutenberg license](https://www.gutenberg.org/policy/license.html) and the crowdsourced writing is distributed under a [CC By](https://creativecommons.org/licenses/by/4.0/) license, in `data/LICENSE`.

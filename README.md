@@ -1,7 +1,6 @@
 # qfs-dataset
-Query-focused summarization data
 
-This archive contains the current training, dev, and test data for the (currently nameless) question-focused summarization dataset.
+This repo contains the current training, dev, and test data for the (currently nameless) question-focused summarization dataset.
 The source documents are short stories from Project Gutenberg on the order of 5000-6000 words long.
 Each story is paired with a set of five questions, the first of which is always "What is the plot of the story?"
 Each question has four reference summaries, all of which are written by writers from Upwork who consented to having their writing distributed for research purposes.

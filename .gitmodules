@@ -1,0 +1,6 @@
+[submodule "utils/newsroom"]
+	path = utils/newsroom
+	url = git@github.com:lil-lab/newsroom.git
+[submodule "utils/SummarizationEvaluation"]
+	path = utils/SummarizationEvaluation
+	url = git@github.com:rishibommasani/SummarizationEvaluation.git

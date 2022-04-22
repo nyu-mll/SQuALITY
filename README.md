@@ -1,4 +1,4 @@
-# qfs-dataset
+# SQuALITY
 
 This repo contains the current training, dev, and test data for the (currently nameless) question-focused summarization dataset.
 The source documents are short stories from Project Gutenberg on the order of 5000-6000 words long.

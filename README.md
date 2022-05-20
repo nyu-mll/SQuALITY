@@ -10,8 +10,8 @@ Each question has four reference summaries, all of which are written by writers 
 
 The dataset lives in `data`.
 There are currently two versions of the dataset:
-    * `v1` consists of 100 stories and was the version of the dataset used in the paper.
-    * `v2` consists of 125 stories. This version is a superset of `v1` and maintains the same split assignments for stories that appear in both versions of the dataset.
+* `v1` consists of 100 stories and was the version of the dataset used in the paper.
+* `v2` consists of 125 stories. This version is a superset of `v1` and maintains the same split assignments for stories that appear in both versions of the dataset.
 
 Each data file (`{train/dev/test}.jsonl`) is formatted as a JSON lines file.
 Each row in the data file is a JSON dictionary with the following fields:

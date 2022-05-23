@@ -16,7 +16,7 @@ Alex Wang, Richard Yuanzhe Pang, Angelica Chen, Jason Phang, Samuel R. Bowman
 The dataset lives in `data`.
 There are currently two versions of the dataset:
 * `v1` consists of 100 (split 39/25/36 between train/dev/test) stories and was the version of the dataset used in the initial version of the paper.
-* `v2` consists of 127 (split 50/25/52) stories and is a superset of `v1`. It maintains the same split assignments for stories that appear in both versions of the dataset.
+* `v1.1` consists of 127 (split 50/25/52) stories and is a superset of `v1`. It maintains the same split assignments for stories that appear in both versions of the dataset.
 
 Each data file (`{train/dev/test}.jsonl`) is formatted as a JSON lines file.
 Each row in the data file is a JSON dictionary with the following fields:

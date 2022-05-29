@@ -43,7 +43,14 @@ Any opinions, findings, and conclusions or recommendations expressed in this mat
 
 # Citation
 
-TBA.
+```
+@article{wang2022squality,
+  title={S{Q}u{ALITY}: Building a Long-Document Summarization Dataset the Hard Way},
+  author={Wang, Alex and Pang, Richard Yuanzhe and Chen, Angelica and Phang, Jason and Bowman, Samuel R.},
+  journal={arXiv preprint 2205.11465},
+  year={2022}
+}
+```
 
 # Contact
 

@@ -1,6 +1,6 @@
 # SQuALITY
 
-This repo contains the [SQuALITY](https://w4ngatang.github.io/static/papers/squality.pdf) (Summarization-format QUestion Answering with Long Input Texts, Yes!) dataset and supporting code.
+This repo contains the [SQuALITY](https://w4ngatang.github.io/static/papers/squality.pdf) (Summary-format QUestion Answering with Long Input Texts, Yes!) dataset and supporting code.
 SQuALITY is a question-focused, long-document, multi-reference summarization dataset.
 The source documents are short stories from Project Gutenberg on the order of 4000-6000 words long.
 The stories are split such that stories in this dataset that also appear in the [QuALITY](https://arxiv.org/abs/2112.08608) dataset are assigned to the same split.

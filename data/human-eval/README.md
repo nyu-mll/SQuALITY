@@ -1,4 +1,7 @@
+# Human Evaluation Data
 
+Responses from our human evaluation of various summary responses are available in `all-responses.jsonl`.
+The file has the following format:
 
 ```
 passage-id: the Gutenberg passage ID
@@ -18,3 +21,4 @@ questions: list in original question order, where each element contains
     
 ```
 
+For more details on the evluation was run, what instructions what propvided to reviewers, etc., please consult our paper and its appendix.

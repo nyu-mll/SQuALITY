@@ -6,7 +6,7 @@ The file has the following format:
 ```
 passage-id: the Gutenberg passage ID
 questions: list in original question order, where each element contains
-  |- {bart,bart+dpr,human}
+  |- {bart,bart-dpr,human}
      |- response: the original response
      |- reviews: list of review by reviewers
         |- annotations: list of annotations, where each annotation consists of
@@ -21,4 +21,5 @@ questions: list in original question order, where each element contains
     
 ```
 
-For more details on the evluation was run, what instructions what propvided to reviewers, etc., please consult our paper and its appendix.
+For more details on the evluation was run, what instructions were provided to reviewers, etc., please consult our paper and its appendix.
+Feel free to contact Alex Wang (wangalexc _at_ gmail) or open an issue if you have further questions or comments.

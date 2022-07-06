@@ -29,7 +29,11 @@ Each row in the data file is a JSON dictionary with the following fields:
 
 # Baselines
 
-TBA.
+A preliminary script to train our baselines are available in `run_summarization.py`.
+
+# Human Evaluation Data
+
+Human evaluation data is available in `data/human-eval`.
 
 # License
 

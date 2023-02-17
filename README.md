@@ -18,6 +18,7 @@ There are currently two versions of the dataset:
 * `v1` consists of 100 (split 39/25/36 between train/dev/test) stories and was the version of the dataset used in the initial version of the paper.
 * `v1.1` consists of 127 (split 50/25/52) stories and is a superset of `v1`. It maintains the same split assignments for stories that appear in both versions of the dataset.
 * `v1.2` fixes some bugs in the data, specifically lingering HTML tags, odd formatting due to those tags, missing Gutenberg license field, and excessive newlines. This version also adds data splits that use the raw HTML for the stories, rather than the cleaned story text.
+* `v1.3` fixes some bugs in `v1.2`. In `v1.2`, 10 out of 127 articles (each ~5k-word-long) are missing a few hundreds words each, so summaries may not be fully contained in the article. To fix this issue, we have updated the 10 articles.
 
 Each data file (`{train/dev/test}.jsonl`) is formatted as a JSON lines file.
 Each row in the data file is a JSON dictionary with the following fields:
